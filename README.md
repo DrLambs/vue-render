@@ -82,6 +82,6 @@ vue渲染函数文档第一遍看的晕晕乎乎的，再看看写写终于清�
             }
 
 可以看下控制台中打印出来的 `$slots`
-![在这里插入图片描述](https://img-blog.csdn.net/20181011174524369?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NhbnNhbl83OTU3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![控制台打印数据](./src/assets/log.png)
 
 
